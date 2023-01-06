@@ -1,0 +1,14 @@
+REM rick roll + message
+DEFAULT_DELAY 700
+WINDOWS r
+STRING cmd
+ENTER
+STRING start msedge https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+REM Fullscreen video:
+DELAY 2000
+STRING f
+WINDOWS r
+STRING notepad
+ENTER
+STRING you have been pwned!
