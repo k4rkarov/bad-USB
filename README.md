@@ -6,4 +6,5 @@ Repository that contains various `Ducky scripts` for the USB Rubber Ducky/Flippe
 
 | Script | DS/C++ | OS | Comment|
 | --- | --- | --- | --- |
-| rickroll_windows.txt | DS | Windows | Rockroll your friends | 
+| rickroll_windows.txt | DS | Windows | Rickroll your friends | 
+| rickroll_windows.ino | C++ | Windows | Rickroll your friends | 
